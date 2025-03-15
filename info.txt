@@ -1,0 +1,16 @@
+    client_id='23acfe06ee2748a5a58262abd6c42bc0',
+    client_secret='6af8c80d7c6a445aabdf41a09d2154e6',
+    redirect_uri='http://localhost:5000/callback',
+
+    client_id='78df5b1d90704afb8f05f0b3654129e3',
+    client_secret='600c0c39ac6d459cb87f8a00f03e864e',
+    redirect_uri='http://localhost:5000/callback',
+
+    client_id='86312048888b4687a984ed76c7c58ead',
+    client_secret='b6c56c2cafd64865af861d8f4d973951',
+    redirect_uri='http://localhost:5000/callback',
+
+    client_id='04ea92fc87454078bbe7fd772b20edf7',
+    client_secret='ab4538e941284c92aa4b4bfdbf6fc608',
+    redirect_uri='http://localhost:5000/callback',
+    
